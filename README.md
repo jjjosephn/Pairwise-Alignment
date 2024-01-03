@@ -17,4 +17,5 @@ An algorithm made to indicate funcitonal, structural, and/or evolutional relatio
    ```cmd
    pip3 install biopython
    ```
+3. Run program
    
